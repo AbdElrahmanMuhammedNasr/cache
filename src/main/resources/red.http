@@ -1,0 +1,11 @@
+GET http://localhost:8080/get-name/TAMER
+###
+GET http://localhost:8080/get
+###
+GET http://localhost:8080/add
+###
+GET http://localhost:8080/delete/1232837870827
+9868740992804
+5812629099834
+8654392499663
+1232837870827
